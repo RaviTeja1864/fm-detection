@@ -1,5 +1,6 @@
 # Face Mask Detection 
-##semester project
+##
+semester project
 
 Face Mask Detection is a small computer vision app. It can check a still image or a live camera feed, find faces, and estimate whether each face is wearing a mask. The app shows the result with a box and a label around each detected face.
 
